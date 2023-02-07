@@ -1,4 +1,4 @@
-# chocolate
+# shoppingcart
 
 ## Project setup
 ```
