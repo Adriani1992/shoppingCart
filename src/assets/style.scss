@@ -1,0 +1,11 @@
+* {
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+$background: #ffffff;
+
+#app {
+    background-color: $background;
+    transition: 5.5s;
+    overflow: hidden;
+}
