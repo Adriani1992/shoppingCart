@@ -1,19 +1,19 @@
 <template>
   <v-container fluid>
     <Navbar />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <LandingPage />
   </v-container>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import LandingPage from "@/components/LandingPage.vue";
 import Navbar from "@/components/Navbar.vue";
 
 export default {
   name: "Home",
   components: {
-    HelloWorld,
+    LandingPage,
     Navbar,
   },
 };
